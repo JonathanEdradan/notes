@@ -24,4 +24,12 @@
 * [Ben Manning](https://medium.com/@pookymane/the-big-coding-adventure-4ef5df47cd7a)
 * [Abhishek Bhan](https://medium.com/@abhishekbhan/web-development-ae63f82ca91d)
 * [Vikash Parekh](https://medium.com/@vikash/well-hello-world-my-name-is-vikash-parekh-and-i-have-created-this-blog-in-order-to-track-the-a6f0813c6bb2)
+<<<<<<< HEAD
 * [Albert Sison](http://albson.postach.io)
+=======
+<<<<<<< HEAD
+
+=======
+* [Albert Sison](http://albson.postach.io)
+>>>>>>> 296b972a903a41ab1de8f07cf792a831d082d3cd
+>>>>>>> c4969055e9d262af535074326eaa84a9cb2aaeb3

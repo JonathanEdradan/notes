@@ -1,6 +1,14 @@
 var data = require("./products.json")
 
+<<<<<<< HEAD
 1) Number of Available Items
+=======
+// Write your solutions below
+for (var i = 0; i<data.items.length; i++;){
+	if (===) {};
+	consle.log(i);
+}
+>>>>>>> c4969055e9d262af535074326eaa84a9cb2aaeb3
 
 for (i=0; i<data.items.length; i++){
 	console.log(i)
