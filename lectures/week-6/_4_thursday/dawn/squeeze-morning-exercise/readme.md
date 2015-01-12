@@ -1,6 +1,6 @@
 # Squeeze
 
-Write a javascript function `squeeze` that takes a string as an argument and returns a the same string with consecutive duplicate letters removed.
+Write a javascript function `squeeze` that takes a string as an argument and returns the same string with consecutive duplicate letters removed.
 
 ### Examples:
 
