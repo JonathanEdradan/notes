@@ -19,7 +19,11 @@
   </tr>
   <tr>
     <td>Dusk</td>
+<<<<<<< HEAD
     <td><a href="#">Devise</a> (Brian)</td>
+=======
+    <td><a href="https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dusk/devise_notes.md">Devise</a> (Brian)</td>
+>>>>>>> 8e8131f7c437ab394fb067f2531210e7e61e7ce3
     <td>Review (Ilias & Dennis)</td>
     <td><a href="#">TDD App</a> (Dennis)</td>
     <td><a href="#">HTTParty & Action Mailer</a> (Brian)</td>
